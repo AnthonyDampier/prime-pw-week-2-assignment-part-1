@@ -1,11 +1,11 @@
 // REQUIRED FEATURES:
 // 1 - Create a variable called `firstName` and assign it the value of your first name
-
+var firstName = "Anthony";
 // 2 - Create a second variable called `lastName` and assign it the value of your last name
-
+var lastName = "Dampier";
 // 3 - Create a third variable called `fullName`, assign it the value of your first and last name
 // (remember, you already have variables for this, can you use those?)
-
+var fullName = firstName + lastName;
 // 4 - Console log the value of `fullName`
 
 // 5 - Create a variable called `luckyNumber` and assign it the value of your lucky number.
